@@ -1,1 +1,3 @@
+//使用说明：请在下方录入已使用的激活码，每个激活码占一行
 58827e83dd4b6e5b8541d143fbca1ff6370d41776e3e6cf4ede691bcd2e5dba7
+c004f16799dd60dadfdc7d8bfde18cdcd2d91d7983dcd567333bed1896c3af0d
